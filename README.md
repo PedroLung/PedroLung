@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá, meu nome é Pedro Guedes🖖🏻🤙🏻
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrog_lun_silva)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-silva-b741522b6)
 
-<!--
-**PedroLung/PedroLung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLung&show_icons=true&theme=merko)
 
-Here are some ideas to get you started:
+### Tecnologias que uso no meu dia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img align="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img align="center" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img align="center" alt="Sequelize" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue"/>
+  <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div><br/>
+
+Estudante de Sistemas de Informação na UNINASSAU com paixão por tecnologia e educação, unindo o melhor de ambos os mundos no meu aprendizado constante.
+
+### Email para Contato:
+- `pguedeslsilva@gmail.com`
